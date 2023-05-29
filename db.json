@@ -2,55 +2,49 @@
 	"zamores": [
 	{
 		"id": 1,
-		"fname": "Franklyn",
+		"fname": "Roger",
 		"surname": "Zamore",
-		"livesin": "Canefield",
-		"from": "Colihaut",
+		"livesin": "Springfield",
 		"phone": "Samsung Galaxy Note 10",
-		"hobby": "Fishing"
+		"hobby": "Sky diving"
 	},
 	{
 		"id": 2,
-		"fname": "Marilyn",
+		"fname": "Mary-Anne",
 		"surname": "Zamore",
-		"livesin": "Canefield",
-		"from": "Scotts Head",
+		"livesin": "Mansfield",
 		"phone": "Samsung Galaxy A10",
 		"hobby": "Sewing"
 	},
 	{
 		"id": 3,
-		"fname": "Wayne",
+		"fname": "William",
 		"surname": "Zamore",
-		"livesin": "Jimmit",
-		"from": "Canefield",
+		"livesin": "El Reno",
 		"phone": "LG G5",
 		"hobby": "Football"
 	},
 	{
 		"id": 4,
-		"fname": "Brian",
+		"fname": "Bob-Villa",
 		"surname": "Zamore",
-		"livesin": "USA",
-		"from": "Canefield",
+		"livesin": "Lil Rock",
 		"phone": "Samsung Galaxy Note 20",
-		"hobby": "Basketball"
+		"hobby": "Baseball"
 	},
 	{
 		"id": 5,
-		"fname": "Chad",
+		"fname": "Chaka",
 		"surname": "Zamore",
-		"livesin": "Castle Bruce",
-		"from": "Canefield",
+		"livesin": "Reno",
 		"phone": "iPhone 8",
-		"hobby": "Steel pan"
+		"hobby": "Diving"
 	},
 	{
 		"id": 6,
-		"fname": "Lenore",
+		"fname": "Lucia",
 		"surname": "Zamore",
-		"livesin": "Canefield",
-		"from": "Canefield",
+		"livesin": "Long Island",
 		"phone": "Samsung Galaxy A53",
 		"hobby": "Netflix"
 	}
