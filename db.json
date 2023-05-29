@@ -1,0 +1,58 @@
+{
+	"zamores": [
+	{
+		"id": 1,
+		"fname": "Franklyn",
+		"surname": "Zamore",
+		"livesin": "Canefield",
+		"from": "Colihaut",
+		"phone": "Samsung Galaxy Note 10",
+		"hobby": "Fishing"
+	},
+	{
+		"id": 2,
+		"fname": "Marilyn",
+		"surname": "Zamore",
+		"livesin": "Canefield",
+		"from": "Scotts Head",
+		"phone": "Samsung Galaxy A10",
+		"hobby": "Sewing"
+	},
+	{
+		"id": 3,
+		"fname": "Wayne",
+		"surname": "Zamore",
+		"livesin": "Jimmit",
+		"from": "Canefield",
+		"phone": "LG G5",
+		"hobby": "Football"
+	},
+	{
+		"id": 4,
+		"fname": "Brian",
+		"surname": "Zamore",
+		"livesin": "USA",
+		"from": "Canefield",
+		"phone": "Samsung Galaxy Note 20",
+		"hobby": "Basketball"
+	},
+	{
+		"id": 5,
+		"fname": "Chad",
+		"surname": "Zamore",
+		"livesin": "Castle Bruce",
+		"from": "Canefield",
+		"phone": "iPhone 8",
+		"hobby": "Steel pan"
+	},
+	{
+		"id": 6,
+		"fname": "Lenore",
+		"surname": "Zamore",
+		"livesin": "Canefield",
+		"from": "Canefield",
+		"phone": "Samsung Galaxy A53",
+		"hobby": "Netflix"
+	}
+	]
+}
