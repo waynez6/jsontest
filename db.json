@@ -55,6 +55,14 @@
 		"livesin": "Fort De France",
 		"phone": "iPhone 15",
 		"hobby": "Netflix"
+	},
+	{
+		"id": 8,
+		"fname": "Kendra",
+		"surname": "Zamore",
+		"livesin": "Miami",
+		"phone": "Samsung Galaxy S24",
+		"hobby": "Basketball"
 	}
 	]
 }
