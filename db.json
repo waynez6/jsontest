@@ -47,6 +47,22 @@
 		"livesin": "Long Island",
 		"phone": "Samsung Galaxy A53",
 		"hobby": "Netflix"
+	},
+	{
+		"id": 7,
+		"fname": "Hazel",
+		"surname": "Zamore",
+		"livesin": "Fort De France",
+		"phone": "iPhone 15",
+		"hobby": "Netflix"
+	},
+	{
+		"id": 7,
+		"fname": "Kendra",
+		"surname": "Zamore",
+		"livesin": "Miami",
+		"phone": "Samsung Galaxy S24",
+		"hobby": "Basketball"
 	}
 	]
 }
